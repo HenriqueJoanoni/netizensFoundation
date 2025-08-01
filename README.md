@@ -9,6 +9,10 @@
     <img src="https://img.shields.io/badge/MySQL-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB Logo"/>
 </p>
 
+<div align="center">
+  <img src="netizens.gif" alt="Netizens Animation">
+</div>
+
 # Installation
 
 This project is developed with Laravel. Follow the tutorial below to install and set up this website.
